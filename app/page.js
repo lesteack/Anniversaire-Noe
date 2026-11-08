@@ -67,7 +67,7 @@ export default function Page() {
       <section className="infos">
         <div className="carte"><h2>Quand</h2><p>Samedi 18 décembre 2026 dès 18h.</p></div>
         <div className="carte"><h2>Au menu</h2><p>Je sais pas encore.</p></div>
-        <div className="carte"><h2>Dormir sur place</h2><p>C’est possible pour celles et ceux qui le veulent. Dis-le moi.</p></div>
+        <div className="carte"><h2>Dormir sur place</h2><p>C’est possible pour ceux qui le veulent. Dis-le moi.</p></div>
       </section>
 
       <section className="invites">
