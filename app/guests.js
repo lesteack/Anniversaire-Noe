@@ -1,4 +1,4 @@
-// Pour confirmer un invité : passe "ok" à true, la case devient verte.
+// Pour confirmer un invité : passe \"ok\" à true, la case devient verte.
 export const guests = [
   { nom: 'Philippe', ok: true },
   { nom: 'Ines', ok: true },
@@ -16,8 +16,8 @@ export const guests = [
   { nom: 'Mathilde', ok: false },
   { nom: 'Juliette', ok: false },
   { nom: 'Kayla', ok: false },
-  { nom: 'Camille', ok: false },
-  { nom: 'Ela', ok: false },
-  { nom: 'Marcel', ok: false },
+  { nom: 'Camille', ok: true },
+  { nom: 'Ela', ok: true },
+  { nom: 'Marcel', ok: true },
   { nom: 'Valentin', ok: false },
 ];
