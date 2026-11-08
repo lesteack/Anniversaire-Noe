@@ -4,7 +4,7 @@ import { guests } from './guests';
 
 const LAT = 48.729417163726254;
 const LON = 7.89373592965961;
-const CIBLE = new Date('2026-12-18T18:00:00+01:00').getTime();
+const CIBLE = new Date('2026-12-19T18:00:00+01:00').getTime();
 
 function Confettis() {
   const ref = useRef(null);
@@ -59,13 +59,13 @@ export default function Page() {
     <main>
       <Confettis />
       <section className="hero">
-        <h1><span>18</span> décembre</h1>
-        <p className="sous">Samedi 18 décembre 2026, à partir de 18h</p>
+        <h1><span>19</span> décembre</h1>
+        <p className="sous">Samedi 19 décembre 2026, à partir de 18h</p>
         <Compte />
       </section>
 
       <section className="infos">
-        <div className="carte"><h2>Quand</h2><p>Samedi 18 décembre 2026 dès 18h.</p></div>
+        <div className="carte"><h2>Quand</h2><p>Samedi 19 décembre 2026 dès 18h.</p></div>
         <div className="carte"><h2>Au menu</h2><p>Je sais pas encore.</p></div>
         <div className="carte"><h2>Dormir sur place</h2><p>C’est possible pour ceux qui le veulent. Dis-le moi.</p></div>
       </section>

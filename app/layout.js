@@ -5,8 +5,8 @@ const titre = Bricolage_Grotesque({ subsets: ['latin'], variable: '--f-titre', w
 const texte = Figtree({ subsets: ['latin'], variable: '--f-texte' });
 
 export const metadata = {
-  title: 'Soirée du 18 décembre',
-  description: 'Toutes les infos sur la soirée du samedi 18 décembre 2026',
+  title: 'Soirée du 19 décembre',
+  description: 'Toutes les infos sur la soirée du samedi 19 décembre 2026',
 };
 
 export default function RootLayout({ children }) {
