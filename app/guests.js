@@ -9,7 +9,6 @@ export const guests = [
   { nom: 'Juliette', ok: true },
   { nom: 'Amélie', ok: true },
   { nom: 'Elise', ok: true },
-  { nom: 'Louise', ok: true },
   { nom: 'Automne', ok: false },
   { nom: 'Guillaume', ok: false },
   { nom: 'Lorine', ok: false },
